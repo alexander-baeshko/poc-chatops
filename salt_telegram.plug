@@ -1,0 +1,9 @@
+[Core]
+Name = SaltTelegram
+Module = salt_telegram
+
+[Documentation]
+Description = Basic Telegram bot for remote shell commands execution using SaltStack
+
+[Python]
+Version = 2+
