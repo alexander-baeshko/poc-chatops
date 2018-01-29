@@ -1,0 +1,4 @@
+{% for minion in minions %}
+{{loop.index}}) Command "{{command}}" output from "{{minion}}" minion:
+{{data[minion]}}
+{% endfor %}
