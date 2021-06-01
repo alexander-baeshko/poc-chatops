@@ -39,7 +39,7 @@ rocket-errbot==1.2.5
 salt-pepper==0.5.3
 six==1.11.0
 typing==3.6.2
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 waitress==1.1.0
 WebOb==1.7.4
